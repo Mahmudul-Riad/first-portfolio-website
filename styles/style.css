@@ -1,0 +1,293 @@
+/* .header{
+    margin:0%;
+    
+    
+
+} */
+*{
+
+    font-family:"Work Sans";
+    
+}
+.banner{
+    background-image: url(../images/banner/banner3.png);
+    background-size: cover;
+  
+    background-repeat: no-repeat ;
+    font-size: 65px;
+    color: #FFFFFF;;
+   
+    height: 1000px;
+    width: 100%;
+    
+
+}
+.contact{
+    margin: 800px 1520px ;
+    
+    width: 160px;
+    height: 64px;
+    position: absolute;
+    /* left: 1200px;
+    top: 600px; */
+    font-weight: 600;
+    
+    border: none;
+    padding: 20px 25px;
+    border-radius: 25%;
+    background: #FFFFFF;
+    border-radius: 5px;
+    color: #005FAC;
+    font-size: 20px;
+   
+
+}
+  
+.motivation{
+    margin: 218px 221px 362px;
+    position: absolute;
+    left: 845px;
+    
+    text-align: right;
+    width: 525px;
+    height: 228px;
+    padding: 100px;
+    font-size: 65px;
+    align-items: right;
+    
+    
+
+
+}
+.choto{
+    text-align: center;
+    margin: 200px 245px ;
+    position: absolute;
+    left: 845px;
+    top: 300px;
+    text-align: right;
+    width: 494px;
+    height: 78px;
+    padding: 100px;
+    font-weight: 400;
+    font-size: 20px;
+}
+.second{
+    margin:130px 322px 130px 206px;
+    width: 416px 400px;
+    
+}
+.text{
+    /* text-align: left; */
+    margin: 50px;
+    
+
+}
+.failure{
+    margin: 180px 50px 362px;
+    position: absolute;
+    left: 845px;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: left;
+    width: 450px;
+    height: 228px;
+    /* padding: 100px; */
+    font-size: 40px;
+    color: #151414
+    /* align-items: leftt; */
+    
+    
+
+
+}
+.check>ul>li{
+
+    list-style:none;
+}
+.check>ul li:before {
+    content: '✓';
+    
+  }
+.check{
+    
+    position:absolute;
+    right: 640px;
+    top: 1530px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #444343;    
+}
+
+
+.f-description{
+    
+    text-align: left;
+    margin: 1130px 50px ;
+    position: absolute;
+    left: 845px;
+    top: 300px;
+    text-align: left;
+    width: 404px;
+    height: 70px;
+    /* padding: 100px; */
+    font-weight: 400;
+    font-size: 18px;
+    color: #444343;
+
+
+}
+.plan{
+
+    text-align: center;
+    font-weight: 700
+    
+    
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 300px;
+    
+
+}
+ .list{
+
+    display:flex;
+    justify-content: space-between;
+    
+    /* margin: 0px 100px 0px 0px; */
+    margin: 50px 150px 0px 150px;
+    font-weight: 700;
+    text-align: center;
+
+}
+.listChoto{
+    
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+    /* margin: 0px 100px 0px 0px; */
+    margin: 0px 150px 40px 180px;
+    color: #737272;
+    font-size: 20px;
+    font-weight: 500;
+   
+}
+.logo{
+    margin: bottom 530px; ;
+
+}
+.watch{
+    background-size: cover;
+  
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+   
+    width: 1500px;
+    height: 350px;
+    margin: 0px 200px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+   
+}
+.call{
+    border: none;
+    padding: 20px 25px;
+    border-radius: 25%;
+    background: #FFFFFF;
+    border-radius: 5px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+   position: absolute;
+   top: 2600px;
+   left: 270px;
+
+   
+
+}
+.message{
+    color: #FFFFFF;;
+    margin: 50px;
+    /* display:flex;
+     */
+     font-weight: 700;
+    font-size: 40px;
+     width: 500px;
+     height: 50px;
+     position: absolute;
+     top: 2400px;
+
+}
+
+.last{
+    background-color: #151414;
+    background-size: cover;
+    padding: 100px;
+    height: 300px;
+    /* color: #FFFFFF; */
+   
+
+}
+
+.future{
+    color: #FFFFFF ;
+    margin: 20px;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.para{
+    color: #FFFFFF ; 
+    width: 485px;
+    height: 78px;
+    margin: 20px;
+
+}
+.email{
+    color: #FFFFFF ;
+    margin: 20px;
+
+}
+.phone{
+    color: #FFFFFF ;
+    margin: 20px;
+
+}
+.social{
+    margin: 20px;
+
+}
+.subscribe{
+    margin: 220px 229px 243px 1046px;
+    color:#FFFFFF ;
+    position: absolute;
+    right: 70px;
+    top: 2700px;
+    font-weight: 600;
+    font-size: 25px;
+
+}
+
+.btn{
+    margin: 20px 0px 0px 0px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #005FAC;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+.p{
+    width:325px ;
+    height: 64px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    background-color:#151414;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+
+    /* style="width: 325px;height: 64px;border-radius: 7px;background-color:#151414;color:#F3F3F3;"  */
+}
